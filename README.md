@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardmuh
-- 👀 I’m interested in Geoscience, GIS, and Data
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m interested in Geoscience, Software Development
+- 🌱 I’m currently learning Quality Assurace and Data Engineering
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/ardimuhammad/
 
 <!---
