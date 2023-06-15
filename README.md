@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardmuh
-- 👀 I’m interested in Geoscience, Software Development
-- 🌱 I’m currently learning Quality Assurace and Data Engineering
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Quality Assurace 
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/ardimuhammad/
 
 <!---
